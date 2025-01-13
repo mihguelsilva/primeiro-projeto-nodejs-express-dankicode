@@ -1,0 +1,24 @@
+{
+  "name": "primeiro-projeto-nodejs-express-dankicode",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com nodejs express pela danki code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "dankicode"
+  ],
+  "author": "Mihguel Da Silva Santos Tavares De Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode/issues"
+  },
+  "homepage": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode#readme"
+}
