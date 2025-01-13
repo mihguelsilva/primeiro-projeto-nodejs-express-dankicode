@@ -12,3 +12,13 @@ npm install -g ejs
 ```
 
 Com essas duas dependências, conseguimos fazer muita coisa. 
+
+| Obs: Também utilizei o módulo **nodemon**, contudo, não é essencial.
+
+## Finalidade do Projeto
+
+É um projeto simples onde não farei uso de banco de dados, apenas com **arrays**, vamos criar um projeto de criação e deleção de tarefas, utilizando as rotas com **express** e renderizando com **ejs** as páginas **html**.
+
+O mais importante é entender como criar um site que faça a renderização de maneira dinâmica, e através deste projeto, consegui perceber o quão forte e incrível os métodos **JavaScript** são, e sua forte utilidade.
+
+
