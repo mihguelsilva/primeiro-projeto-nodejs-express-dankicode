@@ -1,5 +1,6 @@
 {
   "name": "primeiro-projeto-nodejs-express-dankicode",
+  "email": "mihguelaraujo@gmail.com",
   "version": "1.0.0",
   "description": "Primeiro projeto com nodejs express pela danki code",
   "main": "index.js",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode/issues"
   },
-  "homepage": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode#readme"
+  "config": {
+    "port": "5000"
+  },
+  "homepage": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
 }
