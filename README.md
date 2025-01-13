@@ -13,7 +13,7 @@ npm install -g ejs
 
 Com essas duas dependências, conseguimos fazer muita coisa. 
 
-| Obs: Também utilizei o módulo **nodemon**, contudo, não é essencial.
+| **Obs**: Também utilizei o módulo **nodemon**, contudo, não é essencial.
 
 ## Finalidade do Projeto
 
