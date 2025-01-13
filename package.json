@@ -27,6 +27,7 @@
   "homepage": "https://github.com/mihguelsilva/primeiro-projeto-nodejs-express-dankicode#readme",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
