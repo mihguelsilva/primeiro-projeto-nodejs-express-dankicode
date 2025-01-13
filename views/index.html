@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
+    <head>
+	<meta charset="utf-8">
+	<title>Lista de tarefas | Projeto 1</title>
+	<link rel="stylesheet" href="/public/style.css">
+    </head>
     <body>
-	<h2>Olá <%= nome %>!</h2>
+	<div class="tarefas">
+	    <% for (let a = 0; a < tarefasList.length; a++) { %>
+	    <p> <%= tarefasList[a] %> <a href="/delete/<%= a %>">X</a> </p>
+	    <% } %>
+	</div>
     </body>
 </html>

@@ -1,0 +1,18 @@
+@charset 'utf-8';
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(150,21,255,.5);
+}
+div.tarefas {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 14pt;
+    background-color: rgba(230,230,230,.3);
+    border-radius: 50px;
+}
